@@ -35,7 +35,7 @@ ALTER TABLE `venta`
   ADD KEY `id_prod_idx` (`id_producto`);
 
 ALTER TABLE `producto`
-  MODIFY `id_producto` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
+  MODIFY `id_producto` int(11) NOT NULL AUTO_INCREMENT;
 
 ALTER TABLE `venta`
   MODIFY `idventa` int(11) NOT NULL AUTO_INCREMENT;
