@@ -1,7 +1,7 @@
 # Prueba-Konecta
 Prueba de conocimiento Konecta
 
-#Al entrar a la APP encontras 2 tarjetas donde en Productos podras registrar productos en el formulario y una vez guardados podran ser visualizados en la tabla. Donde podras eliminar y modificar los registros; en Ventas podras registrar las ventas de los productos que has creado anteriormente.
+Al entrar a la APP encontras 2 tarjetas donde en Productos podras registrar productos en el formulario y una vez guardados podran ser visualizados en la tabla. Donde podras eliminar y modificar los registros; en Ventas podras registrar las ventas de los productos que has creado anteriormente.
 
 Para poder hacer uso de esta APP es necesario seguir los siguientes pasos:
 
